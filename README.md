@@ -1,5 +1,5 @@
 # vgg-f-tensorflow
-  tensorflow doesn't provide the pretrained network.It is not convenient for us.
+  Tensorflow doesn't provide the pretrained network.It is not convenient for us.
   
   This code implements vgg-f in tensorflow . you can learn from it and construct your network.
   
